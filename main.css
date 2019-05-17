@@ -1,0 +1,188 @@
+.seccionesEme {
+    margin-top: 8vh;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.tituloSec {
+    font-family: PFDinTextCondW01-Bold;
+    color: #000;
+    font-size: 1.8em;
+    line-height: .9em;
+}
+
+.subtituloEme {
+    font-family: "Bell MT";
+    font-size: 1.1em;
+    line-height: 1.4em;
+}
+
+.plecaConAzul {
+    border-bottom: 1px solid;
+    margin-bottom: 4vh;
+}
+
+a, a:hover {
+    color: inherit !important;
+}
+
+i.icon {
+    padding: 5px;
+}
+
+.marquesina {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    font-size: 4em;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #1851ff;
+    background-color: #000;
+}
+
+.seccionEsp1 {
+    width: 100%;
+    height: 20%;
+    /* border: 1px solid blue; */
+}
+
+.seccionEsp2 {
+    width: 100%;
+    height: 75%;
+    /* border: 1px solid green; */
+}
+
+.seccionesEme2 {
+    height: auto;
+    border-left: 10px solid #2862fb;
+    margin-left: 0;
+}
+
+.tituloDerecha {
+    color: #fff;
+    background: #000;
+    padding: 3px;
+    width: 90px;
+    text-transform: uppercase;
+    font-size: .7em;
+    text-align: center;
+}
+
+.seccionEsp2 img {
+    width: 100%;
+    height: 100%;
+}
+
+.tituloSec2 {
+    font-family: "Bell MT";
+    color: #000;
+    font-size: 1.2em;
+    line-height: .9em;
+    border: double;
+    padding: 20px;
+}
+
+.special {
+    height: 450px;
+    width: 100%;
+    /* border: 1px solid red; */
+    margin-top: 3em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.titularesSec {
+    font-family: PFDinTextCondW01-Bold;
+    color: #2862fb;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    font-size: .7em;
+    margin-bottom: 10px!important;
+}
+
+.pleca, .plecaConAzul {
+    border-bottom: 1px solid;
+    margin-bottom: 4vh;
+}
+
+.derechaa {
+    border-left: 1px solid;
+    margin-bottom: 4vh;
+}
+
+.numeroIzq {
+    color: #2862fb;
+    font-family: PFDinTextCondW01-Bold;
+    font-size: 4em;
+}
+
+.ulIzquierda ul {
+    list-style: none;
+    padding: 0;
+}
+
+.derechaa {
+    border-left: 1px solid;
+    margin-bottom: 4vh;
+}
+
+.derechaa ul li::before {
+    content: "\2022";
+    color: #2862fb;
+    font-weight: 700;
+    display: inline-block;
+    width: 1em;
+    margin-left: -.5em;
+}
+
+.text-center {
+    text-align: center!important;
+}
+
+.derechaa ul {
+    list-style: none;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.tituloBack {
+    color: #fff;
+    background: #000;
+    padding: 6px;
+    text-transform: uppercase;
+    font-size: .9em;
+    text-align: center;
+    letter-spacing: .2em;
+}
+
+.plecaAzul {
+    border-top: 10px solid #2862fb;
+    width: 170px;
+}
+
+.masLeido{
+    width: 100%;
+    display: flex;
+}
